@@ -2,7 +2,17 @@
 
 Crawling
 
-1.Install dependencies
-$ pip install -r requirements.txt
+### How to Launch
+1. **_Clone the repository_**
 
-2.Enjoy it
+```sh
+$ git clone https://github.com/AbdallahHemdan/Orchestra.git
+```
+2. **_Navigate to repository directory_**
+```sh
+$ cd H
+```
+3. **_Install dependencies_**
+```sh
+$ pip install -r requirements.txt
+```
